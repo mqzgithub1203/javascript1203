@@ -1,5 +1,5 @@
 {
-    "name": "goodplus",
+    "name": "good",
     "version": "9.9.9",
     "main": "index.js",
     "repository": "",
@@ -10,7 +10,6 @@
       "start": "node index.js"
     },
     "dependencies": {  
-      "axios": "^1.5.1"
     },
     "engines": {
       "node": ">=14"
